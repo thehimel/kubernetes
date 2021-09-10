@@ -1,5 +1,12 @@
 # Kubernetes
 
+## Table of Contents
+
+- [About](#about)
+- [Kubernetes Features](#kubernetes-features)
+
+## About
+
 - **K8s is an open-source system for automating DSM of containerized apps.**
   - DSM = deployment, scaling, and management.
 - It groups containers that make up an app into logical units for easy management and discovery.
