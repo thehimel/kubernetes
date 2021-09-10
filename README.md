@@ -1,7 +1,7 @@
 # Kubernetes
 
 - **K8s is an open-source system for automating DSM of containerized apps.**
-  - DCM = deployment, scaling, and management.
+  - DSM = deployment, scaling, and management.
 - It groups containers that make up an app into logical units for easy management and discovery.
 - Planet Scale: Designed on the same principles that allows Google to run billions of containers a week,
   K8s can scale without increasing your ops team.
