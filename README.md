@@ -9,7 +9,4 @@
 deliver your applications consistently and easily no matter how complex your need is.
 - Run K8s Anywhere: Kubernetes is open source giving you the freedom to take advantage of on-premises, hybrid,
 or public cloud infrastructure, letting you effortlessly move workloads to where it matters to you.
-
-## Sources
-
-- [kubernetes.io](https://kubernetes.io/)
+- Source: [kubernetes.io](https://kubernetes.io/)
